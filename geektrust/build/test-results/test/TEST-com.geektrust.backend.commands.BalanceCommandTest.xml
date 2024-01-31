@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.commands.BalanceCommandTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-01-18T12:39:29" hostname="LAPTOP-4LC71HF1" time="1.179">
+  <properties/>
+  <testcase name="addMetroCard()" classname="com.geektrust.backend.commands.BalanceCommandTest" time="1.156"/>
+  <testcase name="addMetroCardWithZeroBalance()" classname="com.geektrust.backend.commands.BalanceCommandTest" time="0.003"/>
+  <testcase name="addMetroCardWithNegativeBalanceThrowsNegativeBalanceException()" classname="com.geektrust.backend.commands.BalanceCommandTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

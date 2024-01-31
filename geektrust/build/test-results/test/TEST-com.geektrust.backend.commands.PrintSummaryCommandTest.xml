@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.commands.PrintSummaryCommandTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-01-18T12:39:30" hostname="LAPTOP-4LC71HF1" time="0.081">
+  <properties/>
+  <testcase name="integrationTest1()" classname="com.geektrust.backend.commands.PrintSummaryCommandTest" time="0.048"/>
+  <testcase name="integrationTest2()" classname="com.geektrust.backend.commands.PrintSummaryCommandTest" time="0.002"/>
+  <testcase name="integrationTest3()" classname="com.geektrust.backend.commands.PrintSummaryCommandTest" time="0.002"/>
+  <testcase name="integrationTest4()" classname="com.geektrust.backend.commands.PrintSummaryCommandTest" time="0.002"/>
+  <testcase name="integrationTest5()" classname="com.geektrust.backend.commands.PrintSummaryCommandTest" time="0.002"/>
+  <testcase name="integrationTest6()" classname="com.geektrust.backend.commands.PrintSummaryCommandTest" time="0.002"/>
+  <testcase name="integrationTest7()" classname="com.geektrust.backend.commands.PrintSummaryCommandTest" time="0.002"/>
+  <testcase name="integrationTest8()" classname="com.geektrust.backend.commands.PrintSummaryCommandTest" time="0.008"/>
+  <testcase name="integrationTest9()" classname="com.geektrust.backend.commands.PrintSummaryCommandTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

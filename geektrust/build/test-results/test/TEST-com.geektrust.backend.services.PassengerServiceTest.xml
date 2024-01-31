@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.services.PassengerServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-01-18T12:39:30" hostname="LAPTOP-4LC71HF1" time="0.136">
+  <properties/>
+  <testcase name="createPassengerWhenCardNotRegistered()" classname="com.geektrust.backend.services.PassengerServiceTest" time="0.109"/>
+  <testcase name="createPassenger()" classname="com.geektrust.backend.services.PassengerServiceTest" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

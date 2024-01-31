@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.commands.CheckInCommandTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-01-18T12:39:30" hostname="LAPTOP-4LC71HF1" time="0.084">
+  <properties/>
+  <testcase name="passengerCheckInStationCentral()" classname="com.geektrust.backend.commands.CheckInCommandTest" time="0.048"/>
+  <testcase name="passengerCheckOutStationCentral()" classname="com.geektrust.backend.commands.CheckInCommandTest" time="0.005"/>
+  <testcase name="passengerCheckOutStationAirportWithException()" classname="com.geektrust.backend.commands.CheckInCommandTest" time="0.005"/>
+  <testcase name="passengerCheckInStationCentralAsKid()" classname="com.geektrust.backend.commands.CheckInCommandTest" time="0.006"/>
+  <testcase name="passengerCheckInStationAirport()" classname="com.geektrust.backend.commands.CheckInCommandTest" time="0.003"/>
+  <testcase name="passengerCheckOutStationAirport()" classname="com.geektrust.backend.commands.CheckInCommandTest" time="0.003"/>
+  <testcase name="passengerCheckInStationCentralAsSeniorCitizen()" classname="com.geektrust.backend.commands.CheckInCommandTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

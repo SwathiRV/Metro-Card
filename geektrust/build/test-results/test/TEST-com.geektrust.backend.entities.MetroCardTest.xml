@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.entities.MetroCardTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-01-18T12:39:30" hostname="LAPTOP-4LC71HF1" time="0.011">
+  <properties/>
+  <testcase name="getBalanceTest()" classname="com.geektrust.backend.entities.MetroCardTest" time="0.008"/>
+  <testcase name="getIdTest()" classname="com.geektrust.backend.entities.MetroCardTest" time="0.0"/>
+  <testcase name="toStringTest()" classname="com.geektrust.backend.entities.MetroCardTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

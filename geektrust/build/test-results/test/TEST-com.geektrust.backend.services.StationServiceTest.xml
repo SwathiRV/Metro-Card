@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.services.StationServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-01-18T12:39:30" hostname="LAPTOP-4LC71HF1" time="0.037">
+  <properties/>
+  <testcase name="getAllStationsSummaryTestWhenNoStations()" classname="com.geektrust.backend.services.StationServiceTest" time="0.003"/>
+  <testcase name="printPassengerTest()" classname="com.geektrust.backend.services.StationServiceTest" time="0.015"/>
+  <testcase name="getAllStationsSummaryTest()" classname="com.geektrust.backend.services.StationServiceTest" time="0.002"/>
+  <testcase name="createStation()" classname="com.geektrust.backend.services.StationServiceTest" time="0.007"/>
+  <testcase name="getAllPassengerSummaryTestWhen()" classname="com.geektrust.backend.services.StationServiceTest" time="0.002"/>
+  <testcase name="createStationWhenChild()" classname="com.geektrust.backend.services.StationServiceTest" time="0.002"/>
+  <testcase name="getAllPassengerSummaryTestWhenNoPassengerWasFound()" classname="com.geektrust.backend.services.StationServiceTest" time="0.002"/>
+  <system-out><![CDATA[TOTAL_COLLECTION CENTRAL 500 350
+PASSENGER_TYPE_SUMMARY
+ADULT 2
+SENIOR_CITIZEN 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

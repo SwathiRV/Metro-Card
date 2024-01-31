@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.utility.StationUtilityTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-01-18T12:39:30" hostname="LAPTOP-4LC71HF1" time="0.008">
+  <properties/>
+  <testcase name="checkTheStatusTest()" classname="com.geektrust.backend.utility.StationUtilityTest" time="0.001"/>
+  <testcase name="checkTheStatusThrowsNoStationFoundException()" classname="com.geektrust.backend.utility.StationUtilityTest" time="0.003"/>
+  <testcase name="updateStationTest()" classname="com.geektrust.backend.utility.StationUtilityTest" time="0.001"/>
+  <testcase name="newStationTest()" classname="com.geektrust.backend.utility.StationUtilityTest" time="0.001"/>
+  <testcase name="checkTheStatusTestWhenCheckedOut()" classname="com.geektrust.backend.utility.StationUtilityTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

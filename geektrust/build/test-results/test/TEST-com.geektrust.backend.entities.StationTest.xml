@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.entities.StationTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-01-18T12:39:30" hostname="LAPTOP-4LC71HF1" time="0.011">
+  <properties/>
+  <testcase name="getCollectedAmountTest()" classname="com.geektrust.backend.entities.StationTest" time="0.002"/>
+  <testcase name="getStationByNameTest()" classname="com.geektrust.backend.entities.StationTest" time="0.001"/>
+  <testcase name="getIdTest()" classname="com.geektrust.backend.entities.StationTest" time="0.001"/>
+  <testcase name="toStringTest()" classname="com.geektrust.backend.entities.StationTest" time="0.001"/>
+  <testcase name="getPassengerDetailsTest()" classname="com.geektrust.backend.entities.StationTest" time="0.001"/>
+  <testcase name="getDiscountGivenTest()" classname="com.geektrust.backend.entities.StationTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

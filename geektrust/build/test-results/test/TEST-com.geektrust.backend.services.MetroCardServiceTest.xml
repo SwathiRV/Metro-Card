@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.services.MetroCardServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-01-18T12:39:30" hostname="LAPTOP-4LC71HF1" time="0.056">
+  <properties/>
+  <testcase name="createMetroCard()" classname="com.geektrust.backend.services.MetroCardServiceTest" time="0.03"/>
+  <testcase name="metroCardWhenBalanceIsZero()" classname="com.geektrust.backend.services.MetroCardServiceTest" time="0.002"/>
+  <testcase name="metroCardWhenBalanceIsFloatNegative()" classname="com.geektrust.backend.services.MetroCardServiceTest" time="0.006"/>
+  <testcase name="updateMetroCardWhenCradNotPresent()" classname="com.geektrust.backend.services.MetroCardServiceTest" time="0.004"/>
+  <testcase name="createMetroCardWithNegativeBalance()" classname="com.geektrust.backend.services.MetroCardServiceTest" time="0.005"/>
+  <testcase name="updateMetroCard()" classname="com.geektrust.backend.services.MetroCardServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

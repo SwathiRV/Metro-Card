@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.geektrust.backend.repositories.PassengerRepositoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-01-18T12:39:30" hostname="LAPTOP-4LC71HF1" time="0.01">
+  <properties/>
+  <testcase name="savePassenger()" classname="com.geektrust.backend.repositories.PassengerRepositoryTest" time="0.005"/>
+  <testcase name="getPassengerByMetroIdWhenNotPresent()" classname="com.geektrust.backend.repositories.PassengerRepositoryTest" time="0.002"/>
+  <testcase name="getPassengerByMetroId()" classname="com.geektrust.backend.repositories.PassengerRepositoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
